@@ -22,9 +22,9 @@
 - After that it'll ask for the delay time (in seconds) while `Typing`
 - Give the delay time according to your usual typing speed and then increase it as you go or else the score will not be saved .
 - Example (0.1 then , 0.005 , 0.0005 ...)
-- You'll get a prompt after that to choose your `MODE` and `Time` .
+- You'll get ample time to choose your `MODE` and `Time` .
   
-- <img src='https://github.com/MusadiqPasha/MonkeyType-BOT/blob/main/modes.png'>
+  <img src='https://github.com/MusadiqPasha/MonkeyType-BOT/blob/main/modes.png'>
 
 
 
