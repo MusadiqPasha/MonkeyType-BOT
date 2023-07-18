@@ -19,7 +19,7 @@ It works on every  `Typing mode` and `Time` constraint also .
 - It'll even Accept all the cookie's from the website you don't even need to do that.
 - The program will ask for YOUR [monkeytype](https://monkeytype.com/) `username` and `password` to log into your account . 
 - After that it'll ask for the delay time (in seconds) while `Typing`
-- Give the delay time according to your usual typing speed and then increase it as you go or else the score will not be saved . Example (1.0 then , 0.8 , 0.6 ...)
+- Give the delay time according to your usual typing speed and then increase it as you go or else the score will not be saved . Example (0.1 then , 0.005 , 0.0005 ...)
 - You'll get a prompt after that to choose your `MODE` and `Time` .
 - <img src='https://github.com/MusadiqPasha/MonkeyType-BOT/modes.png '>
 
