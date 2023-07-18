@@ -4,7 +4,7 @@
 - This repository contains a Python script that automates typing on the Monkey Type website with an accuracy of 100%. 
 - The script is designed to prevent detection as a bot, allowing you to ace your score.
 - It works on every  `Typing mode` and `Time` constraint also . 
-
+- It uses `Selenium` to inspect the website and `Pyauotgui` to type the word.
 
 ### What steps you have to follow??
 
