@@ -1,9 +1,9 @@
 # MonkeyType-BOT
-This repository contains a Python script that automates typing on the Monkey Type website with an accuracy of 100%. The script is designed to prevent detection as a bot, allowing you to ace your score.
-It works on every  `Typing mode` and `Time` constraint also .  
+This repository contains a Python script that automates typing on the Monkey Type website with an accuracy of 100%. 
+The script is designed to prevent detection as a bot, allowing you to ace your score.
+It works on every  `Typing mode` and `Time` constraint also . 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.11.4](https://www.python.org/ftp/python/3.11.4/python-3.11.4-embed-amd64.zip) 
 
 ### What steps you have to follow??
 
@@ -21,12 +21,15 @@ It works on every  `Typing mode` and `Time` constraint also .
 - After that it'll ask for the delay time (in seconds) while `Typing`
 - Give the delay time according to your usual typing speed and then increase it as you go or else the score will not be saved . Example (1.0 then , 0.8 , 0.6 ...)
 - You'll get a prompt after that to choose your `MODE` and `Time` .
-- <img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/GUI%20U%20K.png'>
+- <img src='https://github.com/MusadiqPasha/MonkeyType-BOT/modes.png '>
+
 
 
 ### Screenshots
 
-<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/GUI%20U%20K.png'>
+
+<img src='https://github.com/MusadiqPasha/Face_Recognition/MonkeyType-BOT/image.png'>
+
 
 ### Disclaimer
 The Monkey Type Bot is intended for educational purposes only. The authors and contributors of this repository are not responsible for any misuse or consequences resulting from the use of this software. Use it responsibly and at your own risk.
