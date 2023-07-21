@@ -8,7 +8,7 @@
 
 ### What steps you have to follow??
 
-- First install the chrome webdriver from [[Chrome Driver]](https://chromedriver.chromium.org/downloads) and ADD IT TO PATH .
+- First install the chrome webdriver from [Chrome Driver](https://chromedriver.chromium.org/downloads) and ADD IT TO PATH .
 -  Download or clone my Repository to your device .
 - type `pip install -r requirements.txt` in command prompt(this will install required package for project) .
 - If there's some error in adding it ot the path then you can open `monkeytype.py` file and put your `chromedriver.exe` path . 
