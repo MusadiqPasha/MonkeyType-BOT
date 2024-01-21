@@ -6,7 +6,7 @@
 - It works on every  `Typing mode` and `Time` constraint also . 
 - It uses `Selenium` to inspect the website and `Pyauotgui` to type the word.
 
-### What steps you have to follow??
+### Steps to Follow
 
 - First install the chrome webdriver from [Chrome Driver](https://chromedriver.chromium.org/downloads) and ADD IT TO PATH .
 -  Download or clone my Repository to your device .
