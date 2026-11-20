@@ -74,7 +74,7 @@ def display():
     print("--------------------------------------")
 
 
-# main shit
+# main
 
 ans = "YES"
 login()
